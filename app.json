@@ -96,10 +96,9 @@
 
     },
     "addons": [],
-    "buildpacks": [
-        {
-            "url": "heroku/python"
-        }
+    "buildpacks": [{
+        "url": "heroku/python"
+    }],
     ],
     "formation": {
         "worker": {
