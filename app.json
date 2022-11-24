@@ -9,7 +9,7 @@
         "bot"
     ],
     "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
-    "website": "https://telegram.dog/RoyalKrrishna",
+    "website": "https://github.com/RoyalKrrishna/MessageSearchBot",
     "success_url": "https://t.me/mdisksearchroBot",
     "env": {
         "API_ID": {
